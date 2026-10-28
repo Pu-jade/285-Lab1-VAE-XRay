@@ -1,0 +1,7 @@
+{
+  "FID": 0.10420322754495512,
+  "IS": 1.6921229913929194,
+  "samples": 624,
+  "implementation": "Ignite default 1000-output Inception; tutorial preprocessing",
+  "ignite_version": "0.5.5"
+}

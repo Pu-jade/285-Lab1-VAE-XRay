@@ -1,0 +1,15 @@
+{
+  "data_dir": "data/chest_xray",
+  "out_dir": "results",
+  "epochs": 50,
+  "batch_size": 32,
+  "device": "auto",
+  "seed": 42,
+  "latent_dim": 128,
+  "lr": 0.001,
+  "image_size": 64,
+  "beta": 1,
+  "train_images": 4737,
+  "val_images": 479,
+  "test_images": 624
+}
